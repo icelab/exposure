@@ -1,0 +1,12 @@
+{
+  "name": "exposure",
+  "main": "exposure.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/icelab/exposure",
+  "authors": [
+    "Max Wheeler <max@icelab.com.au>"
+  ],
+  "description": "A simple method for exposing namespaced objects.",
+  "license": "MIT",
+  "ignore": ["**/.*","README.md"]
+}
