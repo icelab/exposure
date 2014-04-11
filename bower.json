@@ -8,5 +8,5 @@
   ],
   "description": "A simple method for exposing namespaced objects.",
   "license": "MIT",
-  "ignore": ["**/.*","README.md"]
+  "ignore": ["**/.*","README.md","LICENSE.txt"]
 }

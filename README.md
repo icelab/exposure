@@ -2,7 +2,7 @@ A simple method for exposing namespaced objects. It’s mostly a formalisation o
 
 ## Usage
 
-Simple call the `Exposure()` function and assign it to a variable and you’re all set.
+Simply call the `Exposure()` function and assign it to a variable and you’re all set.
 
 ```js
 var APP = Exposure();
